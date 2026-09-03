@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "238286989246",
+    "project_id": "kossipo-app",
+    "storage_bucket": "kossipo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238286989246:android:28f818e33493254966bbef",
+        "android_client_info": {
+          "package_name": "com.kossipo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238286989246-0pg6b57l8ribk8kcdeok3gqdt8uvtnvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kossipo_app",
+            "certificate_hash": "36c4101347b0f14428dd85d573aacbc67ea50832"
+          }
+        },
+        {
+          "client_id": "238286989246-p9pl4qme4r66mtlfi4pu1lvsukh4hnds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv98ujPAdgvj6pKjhB7aHsg1VT_Cq4OH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238286989246-p9pl4qme4r66mtlfi4pu1lvsukh4hnds.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238286989246-r1i8rnnout6rl1jtbp6jke4s3da6ajqh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kossipoAppFinal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

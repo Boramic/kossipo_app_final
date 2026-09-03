@@ -1,0 +1,36 @@
+class VillagesData {
+  static const Map<String, List<String>> villagesByCountry = {
+    "Cameroon": [
+      "Bafoussam",
+      "Dschang",
+      "Bangangté",
+      "Foumban",
+      "Mbouda",
+      "Bamenda",
+      "Kumbo",
+      "Bali",
+      "Batibo",
+      "Wum",
+      "Buea",
+      "Limbe",
+      "Kumba",
+      "Mamfe",
+      "Ebolowa",
+      "Sangmélima",
+      "Kribi",
+      "Edéa",
+      "Ngaoundéré",
+      "Garoua",
+      "Maroua",
+      "Mokolo",
+      "Yagoua",
+      "Meiganga",
+      "Bertoua",
+      "Yokadouma",
+      "Abong-Mbang",
+      "Eséka",
+      "Akonolinga",
+      "Obala"
+    ],
+  };
+}

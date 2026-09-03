@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"kossipo-app","appId":"1:238286989246:android:28f818e33493254966bbef","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"kossipo-app","configurations":{"android":"1:238286989246:android:28f818e33493254966bbef","ios":"1:238286989246:ios:9b1e8d6a7d55dd2966bbef"}}}}}}
